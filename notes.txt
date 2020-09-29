@@ -1,0 +1,6 @@
+1. Controller = API routes
+2. DAO = Save to DB
+3. DTO = JSON model
+4. Model = DB
+5. Services = return DTO
+6. app.py = entrypoint to flask, db, blueprint routes
